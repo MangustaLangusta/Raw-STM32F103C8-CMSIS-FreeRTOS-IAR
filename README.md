@@ -3,7 +3,7 @@ Raw IAR Embedded Workbench  project for STM32 BluePill using only CMSIS + FreeRT
 
 Can be used as a template for new projects.
 
-It should compile without errors as-is (tested on IAR EW for ARM v9.30.1)
+It should compile as-is without errors (tested on IAR EW for ARM v9.30.1)
 
 Notes: 
 
