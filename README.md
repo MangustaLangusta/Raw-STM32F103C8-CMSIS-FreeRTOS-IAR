@@ -1,6 +1,8 @@
 # Raw STM32F103C8 CMSIS+FreeRTOS+IAR
-Raw IAREW project for STM32 BluePill using only CMSIS + FreeRTOS
+Raw IAR Embedded Workbench  project for STM32 BluePill using only CMSIS + FreeRTOS
+
 Can be used as a template for new projects.
+
 It should compile without errors as-is (tested on IAR EW for ARM v9.30.1)
 
 Notes: 
