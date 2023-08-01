@@ -1,0 +1,13 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\bin\armPROC.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\bin\armSIM2.dll" 
+
+"C:\Users\acer\Documents\RawFreeRTOS STM32F103C8 — копия\Debug\Exe\raw_freertos_stm32f103c8.out" 
+
+--plugin="C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm/config/debugger/ST/STM32F1xx.dmac" 
+
+
+
+
